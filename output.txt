@@ -1,0 +1,4 @@
+Best Accuracy : 0.7698
+{'tamanio_vocab': 21074, 'tamanio_kernel': 3, 'num_filtros': 32, 'max_len': 31, 'dimension_embedding': 100}
+Test Accuracy : 0.7925
+
