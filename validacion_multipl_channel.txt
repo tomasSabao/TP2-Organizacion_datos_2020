@@ -1,0 +1,32 @@
+kernel1:2	kernel2:3	kernel3:4	num_filtros:32		testing_accuracy:0.7690
+kernel1:3	kernel2:3	kernel3:4	num_filtros:32		testing_accuracy:0.7861
+kernel1:3	kernel2:3	kernel3:3	num_filtros:32		testing_accuracy:0.7822
+kernel1:2	kernel2:2	kernel3:2	num_filtros:32		testing_accuracy:0.7651
+kernel1:2	kernel2:2	kernel3:3	num_filtros:32		testing_accuracy:0.7651
+kernel1:2	kernel2:3	kernel3:2	num_filtros:32		testing_accuracy:0.7585
+
+kernel1:3	kernel2:2	kernel3:2	num_filtros:32		testing_accuracy:0.7598
+
+kernel1:3	kernel2:2	kernel3:3	num_filtros:32		testing_accuracy:0.7887
+
+kernel1:3	kernel2:3	kernel3:2	num_filtros:32		testing_accuracy:0.7769
+
+kernel1:3	kernel2:3	kernel3:3	num_filtros:32		testing_accuracy:0.7808
+
+kernel1:3	kernel2:3	kernel3:4	num_filtros:32		testing_accuracy:0.7795
+
+kernel1:3	kernel2:4	kernel3:4	num_filtros:32		testing_accuracy:0.7756
+
+kernel1:5	kernel2:4	kernel3:4	num_filtros:32		testing_accuracy:0.7822
+
+kernel1:5	kernel2:4	kernel3:2	num_filtros:32		testing_accuracy:0.7730
+
+kernel1:6	kernel2:4	kernel3:4	num_filtros:32		testing_accuracy:0.7375
+
+kernel1:6	kernel2:2	kernel3:4	num_filtros:32		testing_accuracy:0.7612
+
+kernel1:5	kernel2:4	kernel3:2	num_filtros:32		testing_accuracy:0.7730
+
+kernel1:5	kernel2:4	kernel3:2	num_filtros:64		testing_accuracy:0.7438
+
+kernel1:3	kernel2:5	kernel3:5	num_filtros:64		testing_accuracy:0.7564
